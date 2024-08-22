@@ -10,6 +10,9 @@
 /web/profiles/contrib/
 /web/libraries/
 
+# Ignore auto-generated composer.lock
+/composer.lock
+
 # Ignore sensitive information.
 /web/sites/*/settings.php
 
